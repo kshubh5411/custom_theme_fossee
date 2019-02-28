@@ -1,0 +1,7 @@
+name: custom_theme
+description: our custom theme
+type: theme
+core: 8.x
+
+libraries:
+  - custom_theme/custom_theme-style
