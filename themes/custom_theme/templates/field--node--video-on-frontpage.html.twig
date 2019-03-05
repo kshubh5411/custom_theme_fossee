@@ -8,7 +8,7 @@
 {% if label_hidden %}
  
       {% for item in items %}
-        {{ item.content }}
+        <iframe src="{{item.content}}?autoplay=0&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
       {% endfor %}
 
 {% endif %}
