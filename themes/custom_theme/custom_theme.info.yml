@@ -5,3 +5,8 @@ core: 8.x
 
 libraries:
   - custom_theme/custom_theme-style
+regions:
+  profile_card: 'Profile Card'
+  primary_menu: 'Primary Menu'
+  footer:       'Footer'
+  content:      'Content'
